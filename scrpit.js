@@ -1,6 +1,6 @@
 function playSound()
 {
-    audio = new Audio('start.mp3');
+    audio = new Audio('');
     audio.play();
 }
 function hide()
